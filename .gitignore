@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.xlsx
+*.png
+*.RData
+*.Rhistory
+independence
+.ipynb_checkpoints
+*.ipynb
